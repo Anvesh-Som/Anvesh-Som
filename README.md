@@ -51,7 +51,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="140" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" title="Gazebo Simulator" alt="Gazebo Simulator" width="170" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" title="GNU/LINUX" alt="GNU/LINUX" width="40"/>&nbsp;
+  
   
   
 

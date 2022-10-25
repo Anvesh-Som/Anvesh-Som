@@ -31,6 +31,8 @@
 
 - :bulb: Research exposure: Visual Inertial Odometry pipeline (ROS, C++).
 
+- :scroll: Work history in ROS (AMRs, drone autopilot and manipulators), Robotic Simulations, embedded, Sensor Integration, Computer Vision in past projects with C++ and python as preferred programming languages.
+
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 | :bell: | Don't forget to reach out to me :mailbox: for mutual growth if our interests align :-) |
@@ -57,9 +59,10 @@
 
 
 ---
-<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200px" height="100px"/>
 
 ### :fire: My Stats :
+<img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="150px"/>
+
 [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

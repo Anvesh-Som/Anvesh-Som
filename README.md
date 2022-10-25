@@ -23,11 +23,13 @@
 
 ---
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Interested in making a future possible where humans can focus on important tasks at hand and leave the task of locomotion to intelligent robots and Self-Driving Cars, thus saving lives and time.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Experienced in and exploring robotic perception and navigation subfields.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to watch intruiging STEM videos on youtube, be active on robotics communities (subreddits, discourse, linkedIn), go through open source projects and watch strength sports.
+
+- :bulb: Research exposure: Visual Inertial Odometry pipeline (ROS, C++).
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
@@ -35,22 +37,28 @@
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 ---
-<div id="header" align="center">
-<h3>
-<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-:hammer_and_wrench: Languages and Tools :
+
+<div id="header" align="left">
+  <h3>
+  :hammer_and_wrench: Languages and Tools :
 </h3>
-</div>
+  </div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="140" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" title="Gazebo Simulator" alt="Gazebo Simulator" width="170" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" title="GNU/LINUX" alt="GNU/LINUX" width="40"/>&nbsp;
+  
+  
 
 </div>
 
 
 ---
+<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200px" height="100px"/>
+
 ### :fire: My Stats :
 [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Anvesh-Som/Anvesh-Som/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
